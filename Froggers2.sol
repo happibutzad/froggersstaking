@@ -2,7 +2,7 @@
  *Submitted for verification at polygonscan.com on 2022-03-18
 */
 
-// SPDX-License-Identifier: GPL-3.0
+// SPDX-License-Identifier: MIT License
 
 // File: @openzeppelin/contracts/utils/introspection/IERC165.sol
 pragma solidity ^0.8.0;
