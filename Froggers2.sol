@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at polygonscan.com on 2022-03-18
-*/
-
 // SPDX-License-Identifier: GPL-3.0
 
 // File: @openzeppelin/contracts/utils/introspection/IERC165.sol
